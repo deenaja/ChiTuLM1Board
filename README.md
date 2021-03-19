@@ -5,8 +5,10 @@
  ```
 ## ข้อมูลเทคนิค 
 ```
- ChiTu L M1 Monochrome Board With TMC2209 Driver STM32F407 32Bit Support 8.9 inch 4k Mono LCD 3D Printer
-The firmware option is FPGA firmware come with board, you can also update yourself from our download page.
+  ChiTu L M1 Monochrome Board With TMC2209 Driver STM32F407 32Bit 
+ Support 8.9 inch 4k Mono LCD 3D Printer
+ The firmware option is FPGA firmware come with board,
+ you can also update yourself from our download page.
 ```
 ## ค่า Parameters:
   - Mainboard size：120*85mm
