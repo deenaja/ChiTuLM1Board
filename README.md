@@ -24,3 +24,12 @@
 
 ![LM1  datasheet](images/L-M1-1.jpg)
 ![LM1  datasheet](images/M-1.png)
+
+## โมเดลจอ 
+  - PJ 8.9inch monochrome 4K LCD
+    ![LM1  datasheet](images/PJ.png)
+  - Tianma 8.9inch monochrome 4K LCD
+    ![LM1  datasheet](images/TM.png)
+
+
+
