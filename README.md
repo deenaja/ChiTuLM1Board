@@ -10,6 +10,10 @@
  The firmware option is FPGA firmware come with board,
  you can also update yourself from our download page.
 ```
+## How Update Firmware  
+```
+    Downoad File and Print file "update.lcd" mchine will restart beep sound then restart 
+ ```
 ## ค่า Parameters:
   - Mainboard size：120*85mm
   - Microprocessors：STM32F407(168Hz)
